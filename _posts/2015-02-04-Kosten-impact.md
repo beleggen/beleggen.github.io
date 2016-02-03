@@ -15,7 +15,7 @@ Het netto rendement voor kosten op wereldwijde aandelen sinds 1994 is zo nog (ma
 
 #### Kosten 
 
-Als de boodschap van hierboven wat tegenviel, er is weinig aan te doen. Op lange termijn zijn aandelen inflatiebestendig en belastingen zijn nou eenmaal een [zekerheid](http://freakonomics.com/2011/02/17/quotes-uncovered-death-and-taxes/). Het goede nieuws echter is dat je wel de kosten van beleggen kunt controleren.
+Als de boodschap van hierboven wat tegenviel, er is weinig aan te doen. Op lange termijn zijn aandelen gelukkig inflatiebestendig en belastingen zijn nou eenmaal een [zekerheid](http://freakonomics.com/2011/02/17/quotes-uncovered-death-and-taxes/). Het goede nieuws is dat je wel iets kunt doen aan de kosten van beleggen.
 
 * De kosten van een beleggingsfonds of ETF/Tracker varieren van 0.17% tot meer dan 1.50%
 * De kosten van een vermogensbeheerder varieren van 0.56% tot meer dan 2%
