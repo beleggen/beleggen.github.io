@@ -16,7 +16,7 @@ title:               Beleggen en vermogensbeheer
 tagline:             'blog over beter beleggen'
 url:                 http://beleggen.github.io
 paginate:            1
-baseurl:             "http://beleggen.github.io/"
+baseurl:             
 
 # Assets
 #
