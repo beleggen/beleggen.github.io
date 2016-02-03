@@ -35,7 +35,7 @@ Na inflatie en belasting resteert met sparen dus rendement van -0.2% (negatief d
 #### impact op lange termijn rendement
 
 In de tabel hieronder staat de waardeontwikkeling van een belegging van EUR 50.000 voor na 5,10,15 en 20 jaar.<br>
-De rendementen in in de kolommen zijn het netto reeel rendement zonder kosten (3.8%), het rendement bij zelf-beleggen (3.63%) en het rendement bij gebruik van vermogensbeheer (2.3%).<br>
+De rendementen in in de kolommen zijn het netto reële rendement zonder kosten (3.8%), het rendement bij zelf-beleggen (3.63%) en het rendement bij gebruik van vermogensbeheer (2.3%).<br>
 Na 20 jaar is het verschil tussen zelf-beleggen en laten beheren zo'n 23.000.
 
 ||3.80%|3.63%|2.30%|
@@ -44,3 +44,11 @@ Na 20 jaar is het verschil tussen zelf-beleggen en laten beheren zo'n 23.000.
 |15 jaar|87,484|85,360|70,324|
 |20 jaar|105,419|102,019|78,792|
 
+#### conclusie
+
+- Het geannualiseerde reële rendement op wereldwijde aandelen sinds 1994 is 5%
+- Na 1.2% vermogensbelasting is dit 3.8%
+- Door de kosten van beleggen te minimaliseren wordt het rendement vergroot
+- De kosten van vermogensbeheer bedragen gemiddeld 1.5%
+- De kosten van zelf-beleggen zijn veel lager: 0.17%
+- Het verschil tussen vermogensbeheer en zelf-beleggen levert 1.3% extra rendement per jaar op
