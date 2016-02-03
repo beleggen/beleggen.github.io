@@ -1,8 +1,5 @@
 # Dependencies
 markdown:         kramdown
-kramdown:
-  extensions: ["tables"]
-
 pygments:         true
 
 # Permalinks
