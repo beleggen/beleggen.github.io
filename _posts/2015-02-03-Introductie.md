@@ -18,7 +18,6 @@ De Google search [beleggen vermogensbeheer](https://www.google.nl/search?q=beleg
 * Beleggingstheorie
 * Psychologie van beleggen
 
-# Politiek, sex, religie en geld
 
 Stay tuned!
 
