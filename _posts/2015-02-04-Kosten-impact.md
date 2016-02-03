@@ -34,9 +34,13 @@ Na inflatie en belasting resteert met sparen dus rendement van -0.2% (negatief d
 
 #### impact op lange termijn rendement
 
+In de tabel hieronder staat de waardeontwikkeling van een belegging van EUR 50.000 voor na 5,10,15 en 20 jaar.<br>
+De rendementen in in de kolommen zijn het netto reeel rendement zonder kosten (3.8%), het rendement bij zelf-beleggen (3.63%) en het rendement bij gebruik van vermogensbeheer (2.3%).<br>
+Na 20 jaar is het verschil tussen zelf-beleggen en laten beheren zo'n 23.000.
+
 ||3.80%|3.63%|2.30%|
-|5 jaar|60,250|59,758|56,021|3,738|
-|10 jaar|72,601|71,421|62,766|8,655| 
-|15 jaar|87,484|85,360|70,324|15,035| 
-|20 jaar|105,419|102,019|78,792|23,227| 
+|5 jaar|60,250|59,758|56,021|
+|10 jaar|72,601|71,421|62,766|
+|15 jaar|87,484|85,360|70,324|
+|20 jaar|105,419|102,019|78,792|
 
