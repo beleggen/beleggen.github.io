@@ -6,14 +6,14 @@ title: 'Kosten van vermogensbeheer, impact op rendement'
 Sinds 1994 is het rendement op wereldwijde aandelen [MSCI World Index](https://www.msci.com/resources/factsheets/index_fact_sheet/msci-world-index.pdf) 7% per jaar.
 Dit cijfer is bruto, er wordt geen rekening gehouden met inflatie, belasting en .... kosten.
 
-#### Inflatie en belasting
+#### inflatie en belasting
 
 * De gemiddelde inflatie in Nederland bedroeg ongeveer [2% per jaar](http://statline.cbs.nl/Statweb/publication/?DM=SLNL&PA=70936NED&D1=0&D2=415,428,441,454,467,480,493,506,519,532,545,558,571,584,597,610,623,636,649,662,675,l&HDR=T&STB=G1&VW=T)
 * De vermogensbelasting in Nederland bedraagt 1.2% per jaar
 
 Het netto rendement voor kosten op wereldwijde aandelen sinds 1994 is zo nog (maar) 3.8%.
 
-#### Kosten 
+#### kosten 
 
 Als de boodschap van hierboven wat tegenviel, er is weinig aan te doen. Op lange termijn zijn aandelen gelukkig inflatiebestendig en belastingen zijn nou eenmaal een [zekerheid](http://freakonomics.com/2011/02/17/quotes-uncovered-death-and-taxes/). Het goede nieuws is dat je wel iets kunt doen aan de kosten van beleggen.
 
@@ -44,11 +44,15 @@ Na 20 jaar is het verschil tussen zelf-beleggen en laten beheren zo'n 23.000.
 |15 jaar|87,484|85,360|70,324|
 |20 jaar|105,419|102,019|78,792|
 
-#### conclusie
+#### conclusies
 
 - Het geannualiseerde reële rendement op wereldwijde aandelen sinds 1994 is 5%
 - Na 1.2% vermogensbelasting is dit 3.8%
 - Door de kosten van beleggen te minimaliseren wordt het rendement vergroot
 - De kosten van vermogensbeheer bedragen gemiddeld 1.5%
-- De kosten van zelf-beleggen zijn veel lager: 0.17%
+- De kosten van zelf-beleggen zijn veel lager: 0.17% (9x-10x goedkoper dan laten beheren)
 - Het verschil tussen vermogensbeheer en zelf-beleggen levert 1.3% extra rendement per jaar op
+- Sparen levert na inflatie en belasting al 20 jaar niets op (obligaties kom ik op terug)
+
+
+
