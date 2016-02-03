@@ -2,14 +2,14 @@
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
-relative_permalinks: true
+relative_permalinks: false
 
 # Setup
-title:               Poole
+title:               Beleggen en vermogensbeheer
 tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+url:                 http://beleggen.github.io
 paginate:            1
-baseurl:             ""
+baseurl:             "http://beleggen.github.io/"
 
 # Assets
 #
@@ -20,11 +20,11 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Serieuze Belegger
+  url:               
+  email:             @gmail.com
 
 # Custom vars
 version:             2.0.0
 github:
-  repo:              https://github.com/poole/poole
+  repo:              https://github.com/beleggen/beleggen.github.io
