@@ -53,6 +53,11 @@ Na 20 jaar is het verschil tussen zelf-beleggen en laten beheren zo'n 23.000.
 - De kosten van zelf-beleggen zijn veel lager: 0.17% (9x-10x goedkoper dan laten beheren)
 - Het verschil tussen vermogensbeheer en zelf-beleggen levert 1.3% extra rendement per jaar op
 - Sparen levert na inflatie en belasting al 20 jaar niets op (obligaties kom ik op terug)
+- 
+
+#### Update 16 februari 2016
+
+[Deze vermogensbeheerder] (https://www.care-is.nl/vermogensbeheer/kosten) is uitgeroepen tot 'beste vermogensbeheerder'. Hun kosten? Per jaar 0.8% excl BTW, dus 1% inclusief. Niet echt goedkoop voor 'de beste'... 
 
 
 
