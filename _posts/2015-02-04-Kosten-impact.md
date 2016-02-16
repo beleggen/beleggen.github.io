@@ -57,7 +57,7 @@ Na 20 jaar is het verschil tussen zelf-beleggen en laten beheren zo'n 23.000.
 
 #### Update 16 februari 2016
 
-[Deze vermogensbeheerder] (https://www.care-is.nl/vermogensbeheer/kosten) is uitgeroepen tot 'beste vermogensbeheerder'. Hun kosten? Per jaar 0.8% excl BTW, dus 1% inclusief. Niet echt goedkoop voor 'de beste'... 
+[Deze vermogensbeheerder](https://www.care-is.nl/vermogensbeheer/kosten) is uitgeroepen tot 'beste vermogensbeheerder'. Hun kosten? Per jaar 0.8% excl BTW, dus 1% inclusief. Niet echt goedkoop voor 'de beste'... 
 
 
 
